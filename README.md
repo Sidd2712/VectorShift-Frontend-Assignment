@@ -1,7 +1,10 @@
-VectorShift Frontend Technical Assessment
+# VectorShift Frontend Technical Assessment
+
 This repository contains the completed technical assessment for the Frontend Engineer role at VectorShift. The project involves building a modular, node-based pipeline builder using React (React Flow) and a FastAPI backend for graph analysis.
- Features
-Part 1: Node Abstraction
+ 
+ 
+ ## Features
+ ###Part 1: Node Abstraction
 Base Node Component: Created a high-level abstraction for nodes to eliminate redundant code across different node types.
 Shared Functionality: Centralized styling, handle logic, and container structures.
 5 New Custom Nodes:
